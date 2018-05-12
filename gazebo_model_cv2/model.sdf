@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="cv2">
+    <static>true</static>
+    <link name="cv2">
+      <visual name="ca_vignal_2">
+        <geometry>
+            <mesh>
+              <uri>model://ca_vignal_2/meshes/plan.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>
