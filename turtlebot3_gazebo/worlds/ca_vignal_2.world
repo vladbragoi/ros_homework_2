@@ -80,6 +80,7 @@
       <elevation>0</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
+<<<<<<< HEAD
     <model name='4chairs'>
       <static>1</static>
       <pose frame=''>0.084253 -0.971403 0.5 0 -0 0</pose>
@@ -167,6 +168,12 @@
       <static>1</static>
       <link name='cv2'>
       <inertial>
+=======
+    <model name='cv2'>
+      <static>1</static>
+      <link name='cv2::cv2'>
+        <inertial>
+>>>>>>> ee2c6d4bdd3490c7a4f0057507b46b0a289fc4d0
           <mass>10000</mass>
           <inertia>
             <ixx>0.166667</ixx>
@@ -244,6 +251,7 @@
         <self_collide>0</self_collide>
         <kinematic>0</kinematic>
       </link>
+<<<<<<< HEAD
       <pose frame=''>2.53148 15.3211 0 0 -0 0</pose>
     </model>
     <model name='4chairs_clone'>
@@ -775,6 +783,30 @@
         <scale>1 1 1</scale>
         <link name='link'>
           <pose frame=''>-16.1457 18.3056 0.5 0 -0 0</pose>
+=======
+      <pose frame=''>5.84384 -10.0125 0 0 -0 0</pose>
+    </model>
+    <state world_name='default'>
+      <sim_time>508 911000000</sim_time>
+      <real_time>511 371753109</real_time>
+      <wall_time>1526058632 887323536</wall_time>
+      <iterations>508911</iterations>
+      <model name='cv2'>
+        <pose frame=''>5.8 -10 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='cv2::cv2'>
+          <pose frame=''>5.8 -10 0 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='ground_plane'>
+        <pose frame=''>0 0 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>0 0 0 0 -0 0</pose>
+>>>>>>> ee2c6d4bdd3490c7a4f0057507b46b0a289fc4d0
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -784,6 +816,7 @@
         <pose frame=''>0 0 10 0 -0 0</pose>
       </light>
     </state>
+<<<<<<< HEAD
     <model name='unit_box'>
       <link name='link'>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -3010,6 +3043,11 @@
     <gui fullscreen='0'>
       <camera name='user_camera'>
         <pose frame=''>-16.0531 25.1857 16.287 -0 1.3138 -1.56898</pose>
+=======
+    <gui fullscreen='0'>
+      <camera name='user_camera'>
+        <pose frame=''>3.84335 2.71627 12.0808 0 1.18364 -1.57101</pose>
+>>>>>>> ee2c6d4bdd3490c7a4f0057507b46b0a289fc4d0
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
