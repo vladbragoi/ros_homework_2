@@ -7,7 +7,6 @@
 ![World preview](media/ca_vignal_2_preview.png)
 
 
-
 ### Descrizione
 L'homework 2 prevede la costruzione di un ambiente virtuale per il tool Gazebo disponibile con ROS (nel mio caso la distro Kinetic), in modo tale da poter essere simulato con il robot `Turtlebot3`.
 La mia scelta (tra le opzioni definite dall'homework) è stata quella di modellare una parte del dipartimento di Informatica dell'Università di Verona, in particolare il piano 1 del blocco Ca Vignal 2.
