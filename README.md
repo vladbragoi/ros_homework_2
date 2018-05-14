@@ -67,6 +67,8 @@ Il video relativo alla navigazione autonoma è disponibile con il `clone` del se
 
 * [Cyberlab world](https://github.com/dbloisi/cyber_lab_gazebo)
 
+* [Youtube video](media/turtlebot3_preview.png)
+
 
 ### Author ###
 
