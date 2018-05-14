@@ -1,17 +1,7 @@
 # ros_homework_2 #
 ##### Homework 2 [Laboratorio Ciberfisico] - University of Verona #####
 
-<video controls="controls" poster="turtlebot3.png" width="640" height="360">
-    <source src="turtlebot3_autonomous_driving.mp4" type="video/mp4" />
-    <object type="application/x-shockwave-flash"
-            data="swf/flowplayer-3.2.18.swf" width="640" height="360">
-        <param name="movie" value="swf/flowplayer-3.2.18.swf" />
-        <param name="allowFullScreen" value="true" />
-        <param name="wmode" value="transparent" />
-        <param name="flashVars"
-               value="config={'playlist':['..%2Fimg%2Fdemo.jpg',{'url':'..%2Fvid%2Fdemo.mp4','autoPlay':false}]}" />
-    </object>
-</video>
+[![Watch video](turtlebot3.png)](https://youtu.be/u7z6F1_MQ9o)
 
 ### References ###
 [Course page (prof. Bloisi - Univr)](profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)
