@@ -46,7 +46,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/r
 $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`rviz/turtlebot3_nav.rviz
 ```
 
-Il video relativo alla navigazione autonoma è disponibile con il `clone` del seguente repository e visualizzabile al link sotto.
+Il video relativo alla navigazione autonoma è disponibile con il `clone` del seguente repository (dentro la directory `media`) e visualizzabile al link sotto.
 
 
 ### Watch the video simulation ###
@@ -64,6 +64,8 @@ Il video relativo alla navigazione autonoma è disponibile con il `clone` del se
 * [Gazebo: import meshes](http://gazebosim.org/tutorials?tut=import_mesh)
 
 * [ROS: create your own world](http://wiki.ros.org/cob_gazebo_worlds/Tutorials/Create%20your%20own%20world)
+
+* [Cyberlab world](https://github.com/dbloisi/cyber_lab_gazebo)
 
 
 ### Author ###
