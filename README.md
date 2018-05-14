@@ -56,8 +56,8 @@ Il video relativo alla navigazione autonoma è disponibile con il `clone` del se
 
 ### Preview
 
-<img src="media/ca_vignal_2_world.png" width="500">
-<img src="media/ca_vignal_2_preview.png" width="500">
+<img src="media/ca_vignal_2_world.png" width="800">
+<img src="media/ca_vignal_2_preview.png" width="800">
 
 
 ### References ###
