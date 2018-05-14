@@ -1,7 +1,7 @@
 # ros_homework_2 #
 ##### Homework 2 [Laboratorio Ciberfisico] - University of Verona #####
 
-<video controls="controls" poster="img/demo.jpg" width="640" height="360">
+<video controls="controls" poster="turtlebot3.png" width="640" height="360">
     <source src="turtlebot3_autonomous_driving.mp4" type="video/mp4" />
     <object type="application/x-shockwave-flash"
             data="swf/flowplayer-3.2.18.swf" width="640" height="360">
@@ -10,8 +10,6 @@
         <param name="wmode" value="transparent" />
         <param name="flashVars"
                value="config={'playlist':['..%2Fimg%2Fdemo.jpg',{'url':'..%2Fvid%2Fdemo.mp4','autoPlay':false}]}" />
-        <!-- fallback image if flash fails -->
-        <img src="turtlebot3.png" width="640" height="360" title="No Flash found" />
     </object>
 </video>
 
