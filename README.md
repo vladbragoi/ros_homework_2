@@ -1,12 +1,6 @@
 # ros_homework_2 #
 ##### Homework 2 [Laboratorio Ciberfisico] - University of Verona #####
 
-### Preview
-
-![World preview](media/ca_vignal_2_world.png)
-![World preview](media/ca_vignal_2_preview.png)
-
-
 ### Descrizione
 L'homework 2 prevede la costruzione di un ambiente virtuale per il tool Gazebo disponibile con ROS (nel mio caso la distro Kinetic), in modo tale da poter essere simulato con il robot `Turtlebot3`.
 La mia scelta (tra le opzioni definite dall'homework) è stata quella di modellare una parte del dipartimento di Informatica dell'Università di Verona, in particolare il piano 1 del blocco Ca Vignal 2.
@@ -58,6 +52,13 @@ Il video relativo alla navigazione autonoma è disponibile con il `clone` del se
 ### Watch the video simulation ###
 [![Watch video](media/turtlebot3_preview.png)](https://youtu.be/u7z6F1_MQ9o)
 (click the preview to open video on youtube)
+
+
+### Preview
+
+<img src="media/ca_vignal_2_world.png" width="500">
+<img src="media/ca_vignal_2_preview.png" width="500">
+
 
 ### References ###
 
