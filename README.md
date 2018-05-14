@@ -12,7 +12,7 @@ Clonare il seguente repository:
 ```sh
 $ git clone https://github.com/vladbragoi/ros_homework_2.git
 ```
-Posizionarsi in ros_homework_2 e lanciare lo script "setup.sh" con il comando:
+Posizionarsi nella directory ros_homework_2 e lanciare lo script "setup.sh" con il comando:
 ```sh
 $ ./setup.sh
 ```
@@ -46,7 +46,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/r
 $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`rviz/turtlebot3_nav.rviz
 ```
 
-Il video relativo alla navigazione autonoma è disponibile con il clone del seguente repository e visualizzabile al link sotto.
+Il video relativo alla navigazione autonoma è disponibile con il `clone` del seguente repository e visualizzabile al link sotto.
 
 
 ### Watch the video simulation ###
