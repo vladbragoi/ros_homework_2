@@ -355,7 +355,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='unit_box_clone_1_cloneï¿½'>
+      <model name='unit_box_clone_1_cloneù'>
         <pose frame=''>7.72501 21.9665 0.499997 0 3e-06 -2e-06</pose>
         <scale>1 1 1</scale>
         <link name='link'>
@@ -390,7 +390,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/trash_can.dae</uri>
+              <uri>model://first_2015_trash_can/meshes/trash_can.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -416,7 +416,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/trash_can.dae</uri>
+              <uri>/home/vlad/.gazebo/models/first_2015_trash_can/meshes/trash_can.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -499,7 +499,7 @@
         <visual name='ca_vignal_2'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/plan.dae</uri>
+              <uri>model://ca_vignal_2/meshes/plan.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -518,7 +518,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/plan.dae</uri>
+              <uri>/home/vlad/catkin_ws/src/ros_homework_2/turtlebot3_gazebo/ca_vignal_2/plan.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -594,7 +594,7 @@
         <visual name='four_chairs'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>model://4chairs/meshes/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -613,7 +613,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>/home/vlad/catkin_ws/src/ros_homework_2/turtlebot3_gazebo/ca_vignal_2/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -689,7 +689,7 @@
         <visual name='four_chairs'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>model://4chairs/meshes/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -708,7 +708,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>/home/vlad/catkin_ws/src/ros_homework_2/turtlebot3_gazebo/ca_vignal_2/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -784,7 +784,7 @@
         <visual name='four_chairs'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>model://4chairs/meshes/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -803,7 +803,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>/home/vlad/catkin_ws/src/ros_homework_2/turtlebot3_gazebo/ca_vignal_2/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -879,7 +879,7 @@
         <visual name='four_chairs'>
           <geometry>
             <mesh>
-              <uri>file://ca_vignal_2/4chairs.dae</uri>
+              <uri>model://4chairs/meshes/4chairs.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2367,7 +2367,7 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>6.308 21.9664 0.5 0 -3e-06 1e-06</pose>
     </model>
-    <model name='unit_box_clone_1_cloneï¿½'>
+    <model name='unit_box_clone_1_cloneù'>
       <link name='link'>
         <pose frame=''>0 0 0 0 -0 0</pose>
         <inertial>
