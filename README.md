@@ -8,20 +8,20 @@ La mia scelta (tra le opzioni definite dall'homework) è stata quella di modella
 Il modello 3D della piantina del piano è stato costruito con SolidWorks, un programma CAD per modellazioni 3D che permette di esportare progetti in `STL`, da convertire poi in `COLLADA` (.dae), formato compatibile con Gazebo. Gli altri elementi (panchine da sala di attesa, cestino, armadi e termosifoni) sono stati realizzati sia direttamente in Gazebo, che importati dal catalogo online di questo. 
 
 ### Istruzioni per l'installazione
-* Clonare il seguente repository:
+Clonare il seguente repository:
 ```sh
 $ git clone https://github.com/vladbragoi/ros_homework_2.git
 ```
-* Posizionarsi in ros_homework_2 e lanciare lo script "setup.sh" con il comando:
+Posizionarsi in ros_homework_2 e lanciare lo script "setup.sh" con il comando:
 ```sh
 $ ./setup.sh
 ```
-* Eseguire le seguenti istruzioni:
+Eseguire le seguenti istruzioni:
 ```sh
 $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_gazebo turtlebot3_cv2.launch
 ```
-* Per la navigazione autonoma:
+Per la navigazione autonoma:
 ```sh
 $ roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
 ```
