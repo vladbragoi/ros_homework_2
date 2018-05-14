@@ -1,7 +1,7 @@
 # ros_homework_2 #
 ##### Homework 2 [Laboratorio Ciberfisico] - University of Verona #####
 
-[![Watch the video](turtlebot3.png)](turtlebot3_autonomous_driving.mp4)
+<iframe width="854" height="480" src="turtlebot3_autonomous_driving.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### References ###
 [Course page (prof. Bloisi - Univr)](profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)
